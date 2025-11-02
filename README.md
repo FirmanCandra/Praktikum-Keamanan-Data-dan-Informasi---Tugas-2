@@ -1,0 +1,2 @@
+-Portal yang berisi rangkuman tugad dari mata kuliah keamanan data dan informasi
+-Tampilan UI yang sudah diupgrade
